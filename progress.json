@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T03:47:38.435Z",
+  "generated_at": "2026-09-24T03:47:40.063Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -180,6 +180,39 @@
       "last_pushed_at": "2026-07-19T10:41:48.153Z",
       "language": "python",
       "lines": 15
+    },
+    "math:30": {
+      "kind": "math",
+      "id": "30",
+      "title": "ML Workflow Basics",
+      "difficulty": "easy",
+      "category": "Supervised learning setup",
+      "url": "https://www.deep-ml.com/math-problems/30",
+      "path": "math/0030-ml-workflow-basics",
+      "first_solved_at": "2026-09-15T06:02:13.164Z",
+      "last_pushed_at": "2026-09-15T06:02:13.164Z"
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-09-15T06:22:15.021Z",
+      "last_pushed_at": "2026-09-15T06:22:15.021Z"
+    },
+    "math:34": {
+      "kind": "math",
+      "id": "34",
+      "title": "Least Squares and the Normal Equations",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/34",
+      "path": "math/0034-least-squares-and-the-normal-equations",
+      "first_solved_at": "2026-09-15T07:14:45.822Z",
+      "last_pushed_at": "2026-09-15T07:14:45.822Z"
     }
   }
 }
